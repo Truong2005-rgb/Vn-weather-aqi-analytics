@@ -23,9 +23,9 @@ These figures describe the implemented project and its sample data. This is a da
 
 ## Dashboard preview
 
-![Dashboard overview](docs/dashboard-overview.png)
+![Dashboard overview](dashboard-overview.png)
 
-![Geographic and weather views](docs/dashboard-map-and-weather.png)
+![Geographic and weather views](dashboard-map-and-weather.png)
 
 The screenshots were extracted from the original course report and show a different collection run from the bundled CSV snapshot. They illustrate the dashboard layout; the displayed measurements and category counts may differ when you run the app. The supplied CSV files are mutually consistent.
 
