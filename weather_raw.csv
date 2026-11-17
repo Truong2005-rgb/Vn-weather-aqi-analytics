@@ -1,0 +1,15 @@
+﻿City,Region,Lat,Lon,Nhiệt độ (°C),Độ ẩm (%),Áp suất (hPa),Tốc độ gió (m/s),Trạng thái
+Hà Nội,Miền Bắc,21.0285,105.8542,28.17,75,1014,3.9,mây rải rác
+Hải Phòng,Miền Bắc,20.8449,106.6881,27.97,79,1014,2.93,mây thưa
+Quảng Ninh,Miền Bắc,20.95,107.0833,25.5,85,1015,2.48,mây thưa
+Lào Cai,Miền Bắc,22.4833,103.95,24.68,88,1015,0.84,mây đen u ám
+Đà Nẵng,Miền Trung,16.0544,108.2022,26.89,87,1015,1.52,bầu trời quang đãng
+Thừa Thiên Huế,Miền Trung,16.4637,107.5909,27.15,94,1014,1.48,bầu trời quang đãng
+Nha Trang,Miền Trung,12.2388,109.1967,25.88,85,1014,1.59,mây đen u ám
+Hà Tĩnh,Miền Trung,18.343,105.9058,25.21,86,1015,1.32,bầu trời quang đãng
+TP Hồ Chí Minh,Miền Nam,10.8231,106.6297,26.92,87,1013,2.44,mưa nhẹ
+Cần Thơ,Miền Nam,10.0452,105.7469,26.37,92,1012,2.24,mây đen u ám
+An Giang,Miền Nam,10.5216,105.1259,26.57,89,1013,3.09,mưa vừa
+Đà Lạt,Tây Nguyên,11.9404,108.4583,15.95,97,1017,0.92,mây đen u ám
+Buôn Ma Thuột,Tây Nguyên,12.6667,108.05,22.94,86,1014,2.49,mây đen u ám
+Pleiku,Tây Nguyên,13.9833,108.0,19.92,96,1015,2.46,bầu trời quang đãng
